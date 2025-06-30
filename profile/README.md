@@ -2,7 +2,7 @@
   <img src="/profile/Logo_FunBBE.png" alt="Logo FunBBE" width="140" style="margin-bottom: -20px; margin-top: 10;">
 </p>
 
-<h1 align="center">🦁 FunBBE • Fundação Barra Bonita de Ensino</h1>
+<h1 align="center">🦁 FunBBE - Fundação Barra Bonita de Ensino</h1>
 
 <p align="center"><em>63 anos de tradição que agora ganham força com tecnologia e inovação.</em></p>
 
