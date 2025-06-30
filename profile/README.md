@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/logo.png" alt="Logo FunBBE" width="180">
+  <img src="/profile/Logo_FunBBE.png" alt="Logo FunBBE" width="140" style="margin-bottom: -20px; margin-top: 10;">
 </p>
 
 <h1 align="center">🦁 FunBBE • Fundação Barra Bonita de Ensino</h1>
